@@ -19,3 +19,15 @@ public class main {
 		System.out.println("Adding Mint - cost is: $" + mint.cost());
 	}
 }
+
+/*
+The output:
+
+Creating a basic Ice-Cream!
+Basic Ice-Cream - cost is: $0.5
+Adding Vanilla Ice-Cream!
+Adding Vanilla - cost is: $1.5
+Adding Mint Ice-Cream!
+Adding Vanilla Ice-Cream!
+Adding Mint - cost is: $3.0
+*/
