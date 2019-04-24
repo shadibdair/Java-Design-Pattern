@@ -35,5 +35,7 @@
 #### The Command pattern is known as a behavioural pattern,as it's used to manage algorithms, relationships and responsibilities between objects. Thedefinition of Command provided in the original Gang of Four book on DesignPatterns states: 
 * Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations
 ---
-
+## The Adapter Design Pattern
+#### converts the interface of a class into another interface the client expect.
+#### Adapter lets classes work together that couldn't otherwise becuase of incompatible interfaces. 
 
