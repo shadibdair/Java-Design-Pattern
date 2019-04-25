@@ -38,4 +38,8 @@
 ## The Adapter Design Pattern
 #### converts the interface of a class into another interface the client expect.
 #### Adapter lets classes work together that couldn't otherwise becuase of incompatible interfaces. 
-
+---
+## The Facade Design Pattern 
+#### provides a unified interface to a set of interfacesin a subsystem.
+#### Facade defines a higher-level interface that makes the subsystem easir to use. 
+---
