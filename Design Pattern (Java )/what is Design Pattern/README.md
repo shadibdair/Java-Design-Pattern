@@ -23,8 +23,8 @@
 #### In class-based programming, the factory method pattern is a creational pattern that uses factory methods to deal with the problem of creating objects without having to specify the exact class of the object that will be created. This is done by creating objects by calling a factory method—either specified in an interface and implemented by child classes, or implemented in a base class and optionally overridden by derived classes—rather than by calling a constructor.
 ---
 ## The Singleton Design Pattern
-##### sometimes we only need ONE instance of an object. 
-##### Singleton : Ensures a class  has only one instance, and provide a global point of access to it.
+# sometimes we only need ONE instance of an object. 
+# Singleton : Ensures a class  has only one instance, and provide a global point of access to it.
 
 ### Variable Visibility Problems
 #### The Java volatile keyword guarantees visibility of changes to variables across threads. This may sound a bit abstract, so let me elaborate.
@@ -43,3 +43,8 @@
 #### provides a unified interface to a set of interfacesin a subsystem.
 #### Facade defines a higher-level interface that makes the subsystem easir to use. 
 ---
+## The Template Design Patter
+#### defines the skeleton of an algorithm in a method,
+#### deferring some steps to subclasses.
+#### is lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
+--- 
