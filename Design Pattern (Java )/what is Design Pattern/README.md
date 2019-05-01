@@ -9,6 +9,10 @@
 * Decorator
 * Adapter
 * Singleton
+* Command 
+* Template 
+* Iterator 
+* Proxy 
 ---
 ## The Strategy Design Pattern
 #### is Used to creat different Algorithm for each object are called at run time.
@@ -50,4 +54,11 @@
 ---
 ## The Iterator Design Pattern
 #### provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
+---
+## The Proxy Design Pattern
+#### creates a represntative object that controls access to another objcet - whitch maybe remote, expensive to create or in need to be secured.
+### Proxy Variations
+##### Remote Proxy : controls access to a remote object.
+##### Virtual Proxy : Control access to a resource that is expensive to create.
+##### Protection Proxy : Control access to a resource based on access right.
 ---
