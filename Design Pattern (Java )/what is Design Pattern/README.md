@@ -62,5 +62,8 @@
 ##### Virtual Proxy : Control access to a resource that is expensive to create.
 ##### Protection Proxy : Control access to a resource based on access right.
 ---
-### The Builder Design Pattern
+## The Builder Design Pattern
 #### The Builder is a design pattern designed to provide a flexible solution to various object creation problems in object-oriented programming. The intent of the Builder design pattern is to separate the construction of a complex object from its representation. It is one of the Gang of Four design patterns.
+--- 
+## The MVC - Model View Modern
+#### Model–View–Controller (usually known as MVC) is an architectural pattern commonly used for developing user interfaces that divides an application into three interconnected parts. This is done to separate internal representations of information from the ways information is presented to and accepted from the user.[1][2] The MVC design pattern decouples these major components allowing for efficient code reuse and parallel development.
